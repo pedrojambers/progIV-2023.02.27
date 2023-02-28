@@ -1,0 +1,15 @@
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\bin\Debug\net6.0\MostradorConsoantes.exe
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\bin\Debug\net6.0\MostradorConsoantes.deps.json
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\bin\Debug\net6.0\MostradorConsoantes.runtimeconfig.json
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\bin\Debug\net6.0\MostradorConsoantes.dll
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\bin\Debug\net6.0\MostradorConsoantes.pdb
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\obj\Debug\net6.0\MostradorConsoantes.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\obj\Debug\net6.0\MostradorConsoantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\obj\Debug\net6.0\MostradorConsoantes.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\obj\Debug\net6.0\MostradorConsoantes.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\obj\Debug\net6.0\MostradorConsoantes.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\obj\Debug\net6.0\MostradorConsoantes.dll
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\obj\Debug\net6.0\refint\MostradorConsoantes.dll
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\obj\Debug\net6.0\MostradorConsoantes.pdb
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\obj\Debug\net6.0\MostradorConsoantes.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\Calculadora\MostradorConsoantes\obj\Debug\net6.0\ref\MostradorConsoantes.dll

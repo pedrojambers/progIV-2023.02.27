@@ -1,0 +1,15 @@
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\bin\Debug\net6.0\ContadorVogais.exe
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\bin\Debug\net6.0\ContadorVogais.deps.json
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\bin\Debug\net6.0\ContadorVogais.runtimeconfig.json
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\bin\Debug\net6.0\ContadorVogais.dll
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\bin\Debug\net6.0\ContadorVogais.pdb
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\obj\Debug\net6.0\ContadorVogais.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\obj\Debug\net6.0\ContadorVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\obj\Debug\net6.0\ContadorVogais.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\obj\Debug\net6.0\ContadorVogais.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\obj\Debug\net6.0\ContadorVogais.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\obj\Debug\net6.0\ContadorVogais.dll
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\obj\Debug\net6.0\refint\ContadorVogais.dll
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\obj\Debug\net6.0\ContadorVogais.pdb
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\obj\Debug\net6.0\ContadorVogais.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\Calculadora\ContadorVogais\obj\Debug\net6.0\ref\ContadorVogais.dll

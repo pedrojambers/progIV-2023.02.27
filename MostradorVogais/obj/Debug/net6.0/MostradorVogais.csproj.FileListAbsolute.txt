@@ -1,0 +1,15 @@
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\bin\Debug\net6.0\MostradorVogais.exe
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\bin\Debug\net6.0\MostradorVogais.deps.json
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\bin\Debug\net6.0\MostradorVogais.runtimeconfig.json
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\bin\Debug\net6.0\MostradorVogais.dll
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\bin\Debug\net6.0\MostradorVogais.pdb
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\obj\Debug\net6.0\MostradorVogais.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\obj\Debug\net6.0\MostradorVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\obj\Debug\net6.0\MostradorVogais.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\obj\Debug\net6.0\MostradorVogais.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\obj\Debug\net6.0\MostradorVogais.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\obj\Debug\net6.0\MostradorVogais.dll
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\obj\Debug\net6.0\refint\MostradorVogais.dll
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\obj\Debug\net6.0\MostradorVogais.pdb
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\obj\Debug\net6.0\MostradorVogais.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\Calculadora\MostradorVogais\obj\Debug\net6.0\ref\MostradorVogais.dll
